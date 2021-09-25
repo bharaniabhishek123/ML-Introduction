@@ -17,8 +17,8 @@ The central activity of the workshop will be around:
 1. Introduction to ML
 2. What’s Logistic Regression (Why it’s important) 
 3. Logistic regression to Neural Nets
-4. What are CNNs, RNN, LSTMs, Transformers
-5. How to use Transfer Learning
+4. Define our first NN and train a classifier
+5. Use Transfer Learning to fine tune a model. 
 
 # Logistics
 

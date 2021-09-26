@@ -31,6 +31,8 @@ from google.colab import drive
 drive.mount('/content/drive')
 ```
 
+***b Execute the cell using Shift + Enter ***
+
 Click on the below url the and it will ask you to Sign in (click on Sigh in to continue) 
 
 ```

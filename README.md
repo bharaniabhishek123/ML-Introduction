@@ -55,11 +55,6 @@ Click on the google drive Files Icon and make sure that `ML-Introduction' direct
 ![Screenshot](Images/gdrive_after_clone.png)
 
 
-4. change dir 
-```
-%cd 'drive/My Drive/ML-Introduction'
-```
-
 
 # Topics Covered
 The main goal of this workshop is to get familiar with ML model building, explore PyTorch framework, and understand how transfer learning works. Although it's impossible to cover all the topics in one workshop session, we believe that the core concepts contained in this workshop are helpful for anyone to get started on ML.

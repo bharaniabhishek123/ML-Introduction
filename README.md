@@ -1,9 +1,9 @@
 # ML-Introduction
 This repository contains notebooks for ML Introduction workshop. This workshop is planned as an online event and we will use Zoom as our online conference service.
 
-# Pre-Requistes
+# Pre-Requisites
 
-Knowledge of python programming languace and basic computer science principles and skills, at a level sufficient to write a reasonably non-trivial computer program. 
+Knowledge of python programming language and basic computer science principles and skills, at a level sufficient to write a reasonably non-trivial computer program. 
 
 Familiarity with linear algebra (matrix operations, differentiation) and probability theory.
 
@@ -12,7 +12,7 @@ Familiarity with linear algebra (matrix operations, differentiation) and probabi
 
 To get started, we recommend using a Jupyter Server from one of the recommended online platforms such as google colab. 
 
-Google Colab - A popular free service from Google with loaded with all the required ML packages. All you need is a browser.
+Google Colab - A popular free service from Google with loaded with all the required ML packages. All you need is a web-browser, chrome (recommended)
 
 
 # Setup Instructions for the Workshop 
@@ -23,7 +23,6 @@ Google Colab - A popular free service from Google with loaded with all the requi
     Create a new colab notebook and go to the first cell inside the notebook :
 
 
-
 2. Start typing/ copying below code into the cell
 
 ```
@@ -31,9 +30,9 @@ from google.colab import drive
 drive.mount('/content/drive')
 ```
 
-***b Execute the cell using Shift + Enter ***
+**You can execute a cell using Shift + Enter or by clicking on run/play button on the left**
 
-Click on the below url the and it will ask you to Sign in (click on Sigh in to continue) 
+Click on the below url and then it will ask you to Sign in (click on Sigh in to continue) 
 
 ```
 Go to this URL in a browser: https://accounts.google.com/o/oauth2/auth?client_id=
